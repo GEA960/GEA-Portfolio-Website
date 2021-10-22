@@ -134,11 +134,10 @@ let footer = $(`
               </div>
                 <form>
                   <form action="https://formcarry.com/s/jAtcB2AfWUF" method="POST" accept-charset="UTF-8" >
-                  <input type="email" name="email"><!-- use this to reply visitors and prevent spam via akismet -->
-                  <input type="text" name="firstName">
-                  <input type="text" name="lastName">
-                  <input type="text" name="anotherInput">
-                  <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+                  <input type="text" name="field1" placeholder="Your Name" required/>
+                  <input type="email" name="field2" placeholder="Email Address"  required/>
+                  <textarea name="field3" placeholder="Type your Message" required></textarea>
+                  <input type="submit" value="Send" />
                 </form>
              </div>
           </div>
