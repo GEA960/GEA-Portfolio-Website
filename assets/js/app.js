@@ -133,7 +133,7 @@ let footer = $(`
                 <h6 class="display">Get in Touch</h6>
               </div>
                 <form>
-                  <form action="https://formcarry.com/s/S2thQbCqEvW" method="POST" accept-charset="UTF-8" >
+                  <form action="https://formcarry.com/s/jAtcB2AfWUF" method="POST" accept-charset="UTF-8" >
                   <input type="text" name="field1" placeholder="Your Name" required/>
                   <input type="email" name="field2" placeholder="Email Address"  required/>
                   <textarea name="field3" placeholder="Type your Message" required></textarea>
@@ -243,32 +243,13 @@ let footer = $(`
     </svg>
     </a>
 
-    <a class="social-button facebook" href="https://www.facebook.com/GabrielEdrianAlvaro" target="_blank">
-    <!-- SVG code for Github icon -->
-    <svg class="facebook-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
-        <!-- body -->
-        <path id="body" d="M112.5,234.4v43.1c24.5,7.5,50.5,7.5,75,0V225c-0.4-11.1-4.9-21.6-12.7-29.6c30-3.4,59.5-23.5,59.5-64.1
-                                    c0.9-13.9-3.3-27.7-11.8-38.7c4.1-11.6,3.7-24.4-1.3-35.7c0,0-11.2-3.7-37.5,13.8c-22.1-6.1-45.3-6.1-67.4,0
-                                    C90.6,53.3,78.9,56.8,78.9,56.8c-5,11.3-5.4,24.1-1.3,35.7c-8.5,11.1-12.7,24.8-11.9,38.7c0.2,33.8,26.4,61.8,60.2,64.1
-                                    c-5,4.7-8.1,11.1-8.6,18" />
-        <!-- arm                             -->
-        <path id="arm" d="M125.2,213.4c-13.9,7.8-31.5,2.8-39.3-11.2c-4.3-7.7-12-12.8-20.7-13.8c-11.2,0-4.6,6.4,0,9.4
-                                    c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
-    </svg>
+    <a class="social-button github" href="https://www.facebook.com/GabrielEdrianAlvaro" target="_blank">
+    <ion-icon size="large" name="logo-facebook"></ion-icon>  
+    
     </a>
 
-    <a class="social-button youtube" href="https://www.youtube.com/channel/UCSgkZzqpTsoMCshXJ6wLltw" target="_blank">
-    <!-- SVG code for Github icon -->
-    <svg class="youtube-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
-        <!-- body -->
-        <path id="body" d="M112.5,234.4v43.1c24.5,7.5,50.5,7.5,75,0V225c-0.4-11.1-4.9-21.6-12.7-29.6c30-3.4,59.5-23.5,59.5-64.1
-                                    c0.9-13.9-3.3-27.7-11.8-38.7c4.1-11.6,3.7-24.4-1.3-35.7c0,0-11.2-3.7-37.5,13.8c-22.1-6.1-45.3-6.1-67.4,0
-                                    C90.6,53.3,78.9,56.8,78.9,56.8c-5,11.3-5.4,24.1-1.3,35.7c-8.5,11.1-12.7,24.8-11.9,38.7c0.2,33.8,26.4,61.8,60.2,64.1
-                                    c-5,4.7-8.1,11.1-8.6,18" />
-        <!-- arm                             -->
-        <path id="arm" d="M125.2,213.4c-13.9,7.8-31.5,2.8-39.3-11.2c-4.3-7.7-12-12.8-20.7-13.8c-11.2,0-4.6,6.4,0,9.4
-                                    c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
-    </svg>
+    <a class="social-button github" href="https://www.youtube.com/channel/UCSgkZzqpTsoMCshXJ6wLltw" target="_blank">
+    <ion-icon size="large" name="logo-youtube"></ion-icon>  
     </a>
 
 
