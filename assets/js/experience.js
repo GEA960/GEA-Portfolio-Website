@@ -7,14 +7,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Academic and Technical Writer",
-    cardImage: "assets/images/experience-page/FCO.jpg",
+    cardImage: "assets/images/experience-page/FCO.png",
     place: "Freelancingcareers.org Research Company",
     time: "(Nov, 2020 - present)",
     desp: "<li>Work to provide high-quality papers specifically in the field of Computer Science.</li> <li>I also work with nursing and philosophy fields documents as I have a sufficient knowledge about them.</li>",
   },
   {
     title: "Company Writer",
-    cardImage: "assets/images/experience-page/LR.jpg",
+    cardImage: "assets/images/experience-page/LR.png",
     place: "Livingston Research Company",
     time: "(April, 2021 - present)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
@@ -58,7 +58,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Computer Networking 1",
-    cardImage: "assets/images/experience-page/CISCO1.jpg",
+    cardImage: "assets/images/experience-page/CISCO1.png",
     description:
       "I had successfully achieved student level credential for completing CCNAv7. It enables me to configure switches and end devices to provide access to local and remote network resources. ",
   },

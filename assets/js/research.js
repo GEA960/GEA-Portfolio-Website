@@ -9,7 +9,7 @@ const research = [
         conferences : "In partial Fulfilment of the Requirements for the Science, Technology, Engineering and Mathematics Track at Dagatan National High School-Senior High School",
         researchYr : 2019,
         citebox : "popup3",
-        image : "assets/images/research-page/Magnetic Project.jpg",
+        image : "assets/images/research-page/Magnetic Project.png",
         citation: {
             vancouver: "Gabriel Edrian A. Alvaro, John Christler E. Bautista, Alex Ralph A. Ramirez, Elino F. Candor,  Allyza Jane B. Abaday, Pranzin Mae P. Claveria, Lady Marielle A. De Torrez, Kailah F. Gupo, and Myrna P. Villa. Magnetic Project (MP). ."
         },
@@ -22,7 +22,7 @@ const research = [
         conferences : "Dagatan National Highshool/Senior High School-Research 1 Final Requirement",
         researchYr : 2018,
         citebox : "popup1",
-        image : "assets/images/research-page/Enrichment Activities in Statistics and Probability.jpg",
+        image : "assets/images/research-page/Enrichment Activities in Statistics and Probability.png",
         citation: {
             vancouver: "Almel John Alvaro, Gabriel Edrian Alvaro, Jeremy Braza, Elino Candor, Jhon Edvin Caraig, Chester Escubio, Lenard Gaton, Allyza Abaday, Abigail Banua, Gemma Mea De Guzman, Kailah Gupo, Blezie Mae Macalalad, and Vanessa Joy Neri. Enrichment Activities in Statistics and Probability. Dagatan National Highshool-Research 1 Final Requirement."
         },
@@ -36,7 +36,7 @@ const research = [
         conferences : "Final Requirement para sa subject ng Pagbasa ng Iba’t Ibang Teksto Tungo sa Pananaliksik (PPITTP) sa Dagatan National High School/Senior High School",
         researchYr : 2018,
         citebox : "popup4",
-        image : "assets/images/research-page/Batayan ng Mga Magaaral.jpg",
+        image : "assets/images/research-page/Batayan ng Mga Magaaral.png",
         citation: {
             vancouver: "Gabriel Edrian A. Alvaro, Eric James I. Andal, Dhaiane C. Asi, Zalene Angela M. Cometa, Blezie Mae H. Macalalad. Batayan ng mga Mag-aaral Mula sa Dagatan National High School sa Pagpili ng mga Lider sa Loob ng Paaralan. Final Requirement para sa subject ng Pagbasa ng Iba’t Ibang Teksto Tungo sa Pananaliksik (PPITTP) sa Dagatan National High School/Senior High School."
         },
