@@ -17,7 +17,7 @@ const exp = [
     cardImage: "assets/images/experience-page/LR.png",
     place: "Livingston Research Company",
     time: "(April, 2021 - present)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Engage with IT fields. Web dev, Database management systems, programming and software development.</li><li>Work to provide high-quality papers specifically in the field of Computer Science.</li>"
   }
 ];
 
