@@ -136,6 +136,35 @@ a.socialicon {
   text-decoration: none;
   transition: var(--trans-props);
 }
+.socialicon-facebook{
+  display: inline;
+  position: relative;
+  overflow: hidden;
+  width: var(--link-size);
+  height: var(--link-size);
+  background-color: #1f1d1d;
+  margin: 8px;
+  border-radius: 50%;
+  box-shadow: 2px 5px 5px var(--shadow-col);
+  text-decoration: none;
+  transition: var(--trans-props);
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+
+.socialicon-youtube{
+  display: inline;
+  position: relative;
+  overflow: hidden;
+  width: var(--link-size);
+  height: var(--link-size);
+  background-color: #1f1d1d;
+  margin: 8px;
+  border-radius: 50%;
+  box-shadow: 2px 5px 5px var(--shadow-col);
+  text-decoration: none;
+  transition: var(--trans-props);
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
 .socialicon i {
   margin: auto;
   font-size: 24px;
